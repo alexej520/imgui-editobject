@@ -1,0 +1,4 @@
+rootProject.name = 'imgui-objectedit'
+include 'kotlin-common'
+include 'kotlin-libgdx'
+
